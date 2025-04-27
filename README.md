@@ -9,6 +9,8 @@ This project focuses on cleaning and preparing a real-world layoffs dataset for 
 - Data Wrangling Skills
 
 ## 📂 Project Structure
+- Get the dataset from [here](https://github.com/wael9922/Excel_Data_Analysis_Projects/tree/main/Datasets)  
+
 - `layoffs_data_set_cleaning_project.sql` : SQL script containing all data cleaning steps and transformations.
 
 ## 🛠️ SQL Concepts Applied

@@ -10,8 +10,7 @@ This project focuses on cleaning and preparing a real-world layoffs dataset for 
 
 ## 📂 Project Structure
 - Get the dataset from [here](https://github.com/wael9922/Excel_Data_Analysis_Projects/tree/main/Datasets)  
-
-- `layoffs_data_set_cleaning_project.sql` : SQL script containing all data cleaning steps and transformations.
+- [`layoffs_data_set_cleaning_project.sql`](https://github.com/wael9922/SQL_Data_Cleaning_Project/blob/main/layoffs_data_set_cleaning_project.sql) : SQL script containing all data cleaning steps and transformations.
 
 ## 🛠️ SQL Concepts Applied
 - Common Table Expressions (CTEs) to organize and simplify complex queries
